@@ -1,9 +1,12 @@
+As a father of two children (ages 9 and 2), a former preschool teacher and Kindergarten teacher, 
+and dual-degree master's student at the University of Michigan (M.A.Ed '22 & M.S.Info '25), 
 Garret Potter is developing Everstory--the encyclopedia exploration environment for early learners. 
 
-Everstory is like an audio/visual Wikipedia web app for four-year-olds who do not yet read text. 
-Everstory is a 501(c)3 non profit company in its development phase. 
-Using open source tools, UMSI and UM School of Education training, Garret Potter and volunteer collaborators are working 
-to help early learners explore their curiosity independently. 
+Everstory is like an audio/visual Wikipedia for four-year-olds who do not yet read text. 
+Conceived in 2021 and founded in 2022, Everstory is a 501(c)3 non profit company in its development phase. 
+With UMSI and UM School of Education training, Garret Potter and volunteer collaborators are using open-source tools 
+to develop a mobile friendly web application to help early learners explore their curiosity independently. 
+
 Find out more at https://everstory.info
 or  https://www.si.umich.edu/about-umsi/news/experimental-encyclopedia-puts-world-5-year-olds-fingertips
 or by contacting Garret at garret@everstory.info or gwpotter@umich.edu
